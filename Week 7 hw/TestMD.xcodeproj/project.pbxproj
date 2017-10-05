@@ -1,0 +1,365 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DE41E8361F82FDE400057936 /* Asking Alexandria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E82B1F82FDE400057936 /* Asking Alexandria.jpg */; };
+		DE41E8371F82FDE400057936 /* Bullet for My Valentine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E82C1F82FDE400057936 /* Bullet for My Valentine.jpg */; };
+		DE41E8381F82FDE400057936 /* Good Charlotte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E82D1F82FDE400057936 /* Good Charlotte.jpg */; };
+		DE41E8391F82FDE400057936 /* Hollywood Undead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E82E1F82FDE400057936 /* Hollywood Undead.jpg */; };
+		DE41E83A1F82FDE400057936 /* I Prevail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E82F1F82FDE400057936 /* I Prevail.jpg */; };
+		DE41E83B1F82FDE400057936 /* Linkin Park.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8301F82FDE400057936 /* Linkin Park.jpg */; };
+		DE41E83C1F82FDE400057936 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8311F82FDE400057936 /* Main.png */; };
+		DE41E83D1F82FDE400057936 /* A Day to Remember.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8321F82FDE400057936 /* A Day to Remember.jpg */; };
+		DE41E83E1F82FDE400057936 /* Saosin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8331F82FDE400057936 /* Saosin.jpg */; };
+		DE41E83F1F82FDE400057936 /* Senses Fail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8341F82FDE400057936 /* Senses Fail.jpg */; };
+		DE41E8401F82FDE400057936 /* Three Days Grace.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE41E8351F82FDE400057936 /* Three Days Grace.jpg */; };
+		DEF8A5381F82EA8E00313EA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF8A5371F82EA8E00313EA5 /* AppDelegate.swift */; };
+		DEF8A53A1F82EA8E00313EA5 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF8A5391F82EA8E00313EA5 /* MasterViewController.swift */; };
+		DEF8A53C1F82EA8E00313EA5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF8A53B1F82EA8E00313EA5 /* DetailViewController.swift */; };
+		DEF8A53F1F82EA8E00313EA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF8A53D1F82EA8E00313EA5 /* Main.storyboard */; };
+		DEF8A5411F82EA8E00313EA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEF8A5401F82EA8E00313EA5 /* Assets.xcassets */; };
+		DEF8A5441F82EA8E00313EA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEF8A5421F82EA8E00313EA5 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DE41E82B1F82FDE400057936 /* Asking Alexandria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Asking Alexandria.jpg"; path = "My bands/Asking Alexandria.jpg"; sourceTree = "<group>"; };
+		DE41E82C1F82FDE400057936 /* Bullet for My Valentine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Bullet for My Valentine.jpg"; path = "My bands/Bullet for My Valentine.jpg"; sourceTree = "<group>"; };
+		DE41E82D1F82FDE400057936 /* Good Charlotte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Good Charlotte.jpg"; path = "My bands/Good Charlotte.jpg"; sourceTree = "<group>"; };
+		DE41E82E1F82FDE400057936 /* Hollywood Undead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Hollywood Undead.jpg"; path = "My bands/Hollywood Undead.jpg"; sourceTree = "<group>"; };
+		DE41E82F1F82FDE400057936 /* I Prevail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "I Prevail.jpg"; path = "My bands/I Prevail.jpg"; sourceTree = "<group>"; };
+		DE41E8301F82FDE400057936 /* Linkin Park.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Linkin Park.jpg"; path = "My bands/Linkin Park.jpg"; sourceTree = "<group>"; };
+		DE41E8311F82FDE400057936 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Main.png; path = "My bands/Main.png"; sourceTree = "<group>"; };
+		DE41E8321F82FDE400057936 /* A Day to Remember.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "A Day to Remember.jpg"; path = "My bands/A Day to Remember.jpg"; sourceTree = "<group>"; };
+		DE41E8331F82FDE400057936 /* Saosin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Saosin.jpg; path = "My bands/Saosin.jpg"; sourceTree = "<group>"; };
+		DE41E8341F82FDE400057936 /* Senses Fail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Senses Fail.jpg"; path = "My bands/Senses Fail.jpg"; sourceTree = "<group>"; };
+		DE41E8351F82FDE400057936 /* Three Days Grace.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Three Days Grace.jpg"; path = "My bands/Three Days Grace.jpg"; sourceTree = "<group>"; };
+		DEF8A5341F82EA8E00313EA5 /* TestMD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestMD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEF8A5371F82EA8E00313EA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DEF8A5391F82EA8E00313EA5 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		DEF8A53B1F82EA8E00313EA5 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		DEF8A53E1F82EA8E00313EA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DEF8A5401F82EA8E00313EA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DEF8A5431F82EA8E00313EA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DEF8A5451F82EA8E00313EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DEF8A5311F82EA8E00313EA5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DEF8A52B1F82EA8E00313EA5 = {
+			isa = PBXGroup;
+			children = (
+				DEF8A5361F82EA8E00313EA5 /* TestMD */,
+				DEF8A5351F82EA8E00313EA5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DEF8A5351F82EA8E00313EA5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DEF8A5341F82EA8E00313EA5 /* TestMD.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DEF8A5361F82EA8E00313EA5 /* TestMD */ = {
+			isa = PBXGroup;
+			children = (
+				DEF8A54B1F82F3E500313EA5 /* Photos */,
+				DEF8A5371F82EA8E00313EA5 /* AppDelegate.swift */,
+				DEF8A5391F82EA8E00313EA5 /* MasterViewController.swift */,
+				DEF8A53B1F82EA8E00313EA5 /* DetailViewController.swift */,
+				DEF8A53D1F82EA8E00313EA5 /* Main.storyboard */,
+				DEF8A5401F82EA8E00313EA5 /* Assets.xcassets */,
+				DEF8A5421F82EA8E00313EA5 /* LaunchScreen.storyboard */,
+				DEF8A5451F82EA8E00313EA5 /* Info.plist */,
+			);
+			path = TestMD;
+			sourceTree = "<group>";
+		};
+		DEF8A54B1F82F3E500313EA5 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				DE41E82B1F82FDE400057936 /* Asking Alexandria.jpg */,
+				DE41E82C1F82FDE400057936 /* Bullet for My Valentine.jpg */,
+				DE41E82D1F82FDE400057936 /* Good Charlotte.jpg */,
+				DE41E82E1F82FDE400057936 /* Hollywood Undead.jpg */,
+				DE41E82F1F82FDE400057936 /* I Prevail.jpg */,
+				DE41E8301F82FDE400057936 /* Linkin Park.jpg */,
+				DE41E8311F82FDE400057936 /* Main.png */,
+				DE41E8321F82FDE400057936 /* A Day to Remember.jpg */,
+				DE41E8331F82FDE400057936 /* Saosin.jpg */,
+				DE41E8341F82FDE400057936 /* Senses Fail.jpg */,
+				DE41E8351F82FDE400057936 /* Three Days Grace.jpg */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DEF8A5331F82EA8E00313EA5 /* TestMD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DEF8A5481F82EA8E00313EA5 /* Build configuration list for PBXNativeTarget "TestMD" */;
+			buildPhases = (
+				DEF8A5301F82EA8E00313EA5 /* Sources */,
+				DEF8A5311F82EA8E00313EA5 /* Frameworks */,
+				DEF8A5321F82EA8E00313EA5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestMD;
+			productName = TestMD;
+			productReference = DEF8A5341F82EA8E00313EA5 /* TestMD.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DEF8A52C1F82EA8E00313EA5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Terry McCart";
+				TargetAttributes = {
+					DEF8A5331F82EA8E00313EA5 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = DEF8A52F1F82EA8E00313EA5 /* Build configuration list for PBXProject "TestMD" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DEF8A52B1F82EA8E00313EA5;
+			productRefGroup = DEF8A5351F82EA8E00313EA5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DEF8A5331F82EA8E00313EA5 /* TestMD */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DEF8A5321F82EA8E00313EA5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE41E83C1F82FDE400057936 /* Main.png in Resources */,
+				DEF8A5441F82EA8E00313EA5 /* LaunchScreen.storyboard in Resources */,
+				DE41E83D1F82FDE400057936 /* A Day to Remember.jpg in Resources */,
+				DE41E83F1F82FDE400057936 /* Senses Fail.jpg in Resources */,
+				DE41E8361F82FDE400057936 /* Asking Alexandria.jpg in Resources */,
+				DE41E83A1F82FDE400057936 /* I Prevail.jpg in Resources */,
+				DE41E83B1F82FDE400057936 /* Linkin Park.jpg in Resources */,
+				DE41E8401F82FDE400057936 /* Three Days Grace.jpg in Resources */,
+				DEF8A5411F82EA8E00313EA5 /* Assets.xcassets in Resources */,
+				DE41E8381F82FDE400057936 /* Good Charlotte.jpg in Resources */,
+				DE41E83E1F82FDE400057936 /* Saosin.jpg in Resources */,
+				DE41E8391F82FDE400057936 /* Hollywood Undead.jpg in Resources */,
+				DEF8A53F1F82EA8E00313EA5 /* Main.storyboard in Resources */,
+				DE41E8371F82FDE400057936 /* Bullet for My Valentine.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DEF8A5301F82EA8E00313EA5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DEF8A53C1F82EA8E00313EA5 /* DetailViewController.swift in Sources */,
+				DEF8A53A1F82EA8E00313EA5 /* MasterViewController.swift in Sources */,
+				DEF8A5381F82EA8E00313EA5 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DEF8A53D1F82EA8E00313EA5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DEF8A53E1F82EA8E00313EA5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DEF8A5421F82EA8E00313EA5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DEF8A5431F82EA8E00313EA5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DEF8A5461F82EA8E00313EA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DEF8A5471F82EA8E00313EA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DEF8A5491F82EA8E00313EA5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TestMD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = me.TestMD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		DEF8A54A1F82EA8E00313EA5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TestMD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = me.TestMD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DEF8A52F1F82EA8E00313EA5 /* Build configuration list for PBXProject "TestMD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEF8A5461F82EA8E00313EA5 /* Debug */,
+				DEF8A5471F82EA8E00313EA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DEF8A5481F82EA8E00313EA5 /* Build configuration list for PBXNativeTarget "TestMD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DEF8A5491F82EA8E00313EA5 /* Debug */,
+				DEF8A54A1F82EA8E00313EA5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DEF8A52C1F82EA8E00313EA5 /* Project object */;
+}
